@@ -8,6 +8,8 @@ require (
 	github.com/tuannvm/oauth-mcp-proxy v1.0.0
 )
 
+replace github.com/tuannvm/oauth-mcp-proxy => github.com/srstrickland/oauth-mcp-proxy v0.0.0-20251117175339-dcb0bb7ea44e
+
 require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
