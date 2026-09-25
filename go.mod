@@ -30,3 +30,5 @@ require (
 	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/oauth2 v0.34.0 // indirect
 )
+
+replace github.com/tuannvm/oauth-mcp-proxy => github.com/srstrickland/oauth-mcp-proxy v0.0.0-20260925155913-1a2147e713ce
